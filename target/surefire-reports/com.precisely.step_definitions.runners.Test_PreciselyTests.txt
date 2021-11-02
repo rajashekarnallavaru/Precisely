@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.precisely.step_definitions.runners.Test_PreciselyTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 3.323 s <<< FAILURE! - in com.precisely.step_definitions.runners.Test_PreciselyTests
+Feature: Precisely test cases.1-Test case1  Time elapsed: 2.993 s  <<< FAILURE!
+org.opentest4j.MultipleFailuresError: 
+Multiple Failures (2 failures)
+	java.lang.ExceptionInInitializerError: <no message>
+	java.lang.NoClassDefFoundError: Could not initialize class com.precisely.automation.browser.Driver
+
